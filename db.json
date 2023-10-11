@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Isha",
+      "lastName": "cd",
+      "email": "77",
+      "mobile": "sdccd",
+      "salary": null
+    },
+    {
+      "id": 2,
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "salary": null
+    },
+    {
+      "id": 3,
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "salary": null
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
